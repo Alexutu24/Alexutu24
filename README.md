@@ -1,24 +1,22 @@
-<h1 align="center">👋 Hi, I'm a student @ UTCN</h1>
+<h1 align="center">👋 Hi, I'm a Frontend Enthusiast</h1>
 
 <p align="center">
-  🎓 Automatică și Calculatoare – AIA <br/>
+  🎓 Automation & Computer Science – AIA <br/>
   📍 Technical University of Cluj-Napoca <br/>
   🎂 21 years old
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="280" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 💻 About Me
 
-🤖 **Automation & programming enthusiast**  
-⚙️ Passionate about **control systems, software & embedded tech**  
-📚 Always learning, always improving  
-
-I like clean code, smart solutions and projects that actually *do something*.
+🎨 **Frontend-focused developer** with a passion for clean UI and smooth user experiences.  
+🧠 I enjoy building responsive, simple and modern web interfaces.  
+🚀 Always learning and improving my frontend skills.
 
 ---
 
@@ -30,35 +28,25 @@ I like clean code, smart solutions and projects that actually *do something*.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-
 ---
 
 ## 🌱 Currently Learning
 
-- 🔹 Control systems & automation
-- 🔹 Embedded programming
-- 🔹 Advanced problem solving
-- 🔹 Clean & efficient code
+- Responsive layouts & modern CSS  
+- JavaScript fundamentals & DOM  
+- Clean UI design principles  
+- Best practices for frontend development  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Horvath Alex=Horvath Alex&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Horvath Alex&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
-
-💬 Open to collaborations & new ideas  
-⭐ Check out my repositories and feel free to reach out!
-
 <p align="center">
-  🚀 Engineering mindset | 📈 Continuous growth
+  ✨ Frontend • Clean UI • Continuous learning
 </p>
