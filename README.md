@@ -29,7 +29,7 @@ I focus on writing readable code and building interfaces that feel smooth and in
 ## 🎧 In My Free Time
 
 - Building small web projects for fun  
-- Gaming enthusiast — mainly [CS2 (Faceit)](https://www.faceit.com/en/players/_alexutu) and PUBG  
+- Gaming enthusiast — mainly [CS2](https://www.faceit.com/en/players/_alexutu) and PUBG  
 - Occasionally streaming gameplay  
 
 ---
