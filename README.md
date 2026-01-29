@@ -31,13 +31,12 @@ I focus on writing readable code and building interfaces that feel smooth and in
 - Building small web projects for fun  
 - Gaming enthusiast — mainly 
   <a href="https://www.faceit.com/en/players/_alexutu" target="_blank">
-    <img src="https://img.shields.io/badge/CS2-FACEIT-orange?style=flat&logo=counter-strike&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CS2-FACEIT-lightgrey?style=flat"/>
   </a>
   and PUBG  
 - Occasionally streaming gameplay  
 
 ---
-
 
 ## 🌱 Currently Learning
 
